@@ -13,4 +13,16 @@ console.log(booleanIsLoggedIn)
 */
 let someNumber = 33
 let stringNumber = String(someNumber)
-console.log(stringNumber);
+// console.log(stringNumber);
+let str1="hello"
+let str2=" gaurav"
+
+let str3 = str1 + str2
+//console.log(str3)
+/* 
+console.log("1"+2)
+console.log(1+"2")
+console.log("1"+2+2)
+console.log(1+2+"2")
+*/
+console.log(+true)
